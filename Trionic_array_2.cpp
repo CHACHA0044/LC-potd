@@ -53,6 +53,7 @@
 // It is guaranteed that at least one trionic subarray exists.
 
 //solu=
+
 class Solution {
 public:
     long long maxSumTrionic(vector<int>& nums) {
